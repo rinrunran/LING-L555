@@ -1,5 +1,5 @@
 # LING-L555
 
-`Rin Steitz 2'
+`Rin Steitz'
 
 
