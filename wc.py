@@ -2,25 +2,28 @@ import sys
 
 counter = 0
 
+tokens = 0
+
+characters = 0
+
 for c in sys.stdin.read():
 	if c == "\n":
 		counter = counter + 1
+	if c == " ":
+		tokens = tokens + 1
+	#c in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ":
+	characters = characters + 1
 print(counter)
+print(tokens)
+print(characters)
+
+
 
 """
-this code is meant to count the new lines
-"""
+this code is meant to count the new lines, the total number of characters, 
+and the number of words.
 
-counter = 0
-
-for c in sys.stdin.read():
-	if c in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZaeiouAEIOU":
-		counter = counter + 1
-print(counter)
-
-"""
-this code is meant to count the total number of characters
-
-however, it is currently returning 0 as a value. maybe there is
-a new way to type all the characters instead of the long list?
+Currently, it is gining out output very different from the 
+$ cat wiki.txt | wc 
+command in ubuntu :(
 """
