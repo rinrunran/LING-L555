@@ -8,8 +8,8 @@ Nevertheless, I am proud of my project. Starting out with minimal coding experie
 
 It seems like I do not have access to move the files into the project folder, so here is a list of the ones for my project (they all start with 'k'):
 
-karticle.txt \n
-kjamo.py \n
+karticle.txt 
+kjamo.py 
 koreanipa.tsv
 ksegmenter.py
 ktokenizer.py
