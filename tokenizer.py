@@ -15,11 +15,12 @@ while sentence:
 		continue
 	sent_id = sent_id + 1
 	print('# sent_id = %d' % (sent_id))
-	for ch in ['/','`','(',')','?','!','$','%','~','^','&','#','@',':',';']:
-		if ch in wordbword:
-			wordbword = wordbword.replace(ch,' '+ch)
-			continue
 	print('# text = %s' % (sentence.strip()))
+	for ch in ('.','/','`','(',')','?','!','$','%','~','^','&','#','@',':',';'):
+		if ch in wordbword:
+			sentence = sentence.replace(ch,' '+ch)
+			wordbword = sentence.split(' ')
+			continue
 	for word in wordbword:
 		word_id = word_id + 1
 		print(f'{word_id}\t{word}\t_\t_\t_\t_\t_\t_\t_\t_')
