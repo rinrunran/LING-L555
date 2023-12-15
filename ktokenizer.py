@@ -27,13 +27,14 @@ while sentence:
 	sent_id = sent_id + 1
 	#print a statement that announces the number id of the sentence
 	print('# sent_id = %d' % (sent_id))
+	print('# text = %s' % (sentence.strip()))
 	#make a loop that searches for punctuation characters in wordbword, and then replace it with a space and then the character
 	#to make punctuation appear in their own lines
-	for ch in ['/','`','(',')','?','!','$','%','~','^','&','#','@',':',';']:
-		if ch in wordbword:
-			wordbword = wordbword.replace(ch,' '+ch)
+	for ch in ('.','/','`','(',')','?','!','$','%','~','^','&','#','@',':',';'):
+		if ch in sentence:
+			sentence = sentence.replace(ch,' '+ch)
+			wordbword = sentence.split(' ')
 			continue
-	print('# text = %s' % (sentence.strip()))
 	#for each word in wordbword, increase the word id by 1 and add it to the output print statement
 	for word in wordbword:
 		word_id = word_id + 1
