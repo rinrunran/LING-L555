@@ -1,0 +1,128 @@
+# sent_id = 1
+# text = Unang Pahina:
+1	Unang	_	ADJ	_	_	_	_	_	ipa=Unaŋ
+2	Pahina	_	NOUN	_	_	_	_	_	ipa=Pahɪna
+
+
+# sent_id = 2
+# text = Napiling artikulo
+1	Napiling	_	ADJ	_	_	_	_	_	ipa=Napɪlɪŋ
+
+
+# sent_id = 3
+# text = Alam ba ninyo ...
+1	Alam	_	ADJ	_	_	_	_	_	ipa=Alɐm
+2	ba	_	VERB	_	_	_	_	_	ipa=ba
+3	ninyo	_	PRON	_	_	_	_	_	ipa=nɪnjo
+4		_	PUNCT	_	_	_	_	_	ipa=
+5	.	_	PUNCT	_	_	_	_	_	ipa=.
+6	.	_	PUNCT	_	_	_	_	_	ipa=.
+
+
+# sent_id = 4
+# text = Napiling larawan
+1	Napiling	_	ADJ	_	_	_	_	_	ipa=Napɪlɪŋ
+
+
+# sent_id = 5
+# text = Mga dekalidad na larawan sa Wikimedia Commons
+1	Mga	_	DET	_	_	_	_	_	ipa=Mga
+2	dekalidad	NOUN		_	_	_	_	_	ipa=dɛkalɪdɐd
+3	na	_	ADV	_	_	_	_	_	ipa=na
+4	larawan	_	NOUN	_	_	_	_	_	ipa=laɾaʊɐn
+5	sa	_	ADP	_	_	_	_	_	ipa=sa
+6	Wikimedia	PROPN	_	_	_	_	_	_	ipa=Wɪkɪmɛdɪa
+
+
+# sent_id = 6
+# text = Sa araw na ito ( )
+1	Sa	_	ADP	_	_	_	_	_	ipa=Sa
+2	araw	_	NOUN	_	_	_	_	_	ipa=aɾaʊ
+3	na	_	DET	_	_	_	_	_	ipa=na
+4	ito	_	NOUN	_	_	_	_	_	ipa=eto
+5		_	PUNCT	_	_	_	_	_	ipa=
+6	(	_	PUNCT	_	_	_	_	_	ipa=(
+7		_	PUNCT	_	_	_	_	_	ipa=
+
+
+# sent_id = 7
+# text = Patungkol
+
+
+# sent_id = 8
+# text = Ang Wikipedia ay isang proyektong "online" na ensiklopedya na panlahat, nakasulat sa maraming wika, at pinagtutulungan ang paggawa ng mga artikulo sa prinsipyong wiki.
+1	Ang	_	DET	_	_	_	_	_	ipa=Aŋ
+2	Wikipedia	NOUN	_	_	_	_	_	_	ipa=Wɪkɪpɛdɪa
+3	ay	_	VERB	_	_	_	_	_	ipa=aj
+4	isang	_	DET	_	_	_	_	_	ipa=ɪsaŋ
+5	proyektong	_	NOUN	_	_	_	_	_	ipa=pɾojɛktoŋ
+6	"online"	_	NOUN	_	_	_	_	_	ipa="onlɪnɛ"
+7	na	_	ADV	_	_	_	_	_	ipa=na
+8	ensiklopedya	_	NOUN	_	_	_	_	_	ipa=ɛnsɪklopɛdʒa
+9	na	_	DET	_	_	_	_	_	ipa=na
+10	panlahat,	_	ADJ	_	_	_	_	_	ipa=pɐnlahat,
+11	nakasulat	_	ADJ	_	_	_	_	_	ipa=nakasʊlat
+12	sa	_	ADP	_	_	_	_	_	ipa=sa
+13	maraming	_	ADJ	_	_	_	_	_	ipa=maɾɐmɪŋ
+14	wika,	_	NOUN	_	_	_	_	_	ipa=wɪka,
+15	at	_	CCONJ	_	_	_	_	_	ipa=at
+16	pinagtutulungan	_	NOUN	_	_	_	_	_	ipa=penɐgtutʊluŋɐn
+17	ang	_	DET	_	_	_	_	_	ipa=aŋ
+18	paggawa	_	NOUN	_	_	_	_	_	ipa=pɐggaʊa
+19	ng	_	ADP	_	_	_	_	_	ipa=ŋ
+20	mga	_	DET	_	_	_	_	_	ipa=mga
+21	artikulo	_	NOUN	_	_	_	_	_	ipa=aɾtɪkʊlo
+22	sa	_	DET	_	_	_	_	_	ipa=sa
+23	prinsipyong	_	ADJ	_	_	_	_	_	ipa=pɾɪnsɪpjoŋ
+24	wiki	_	NOUN	_	_	_	_	_	ipa=wɪkɪ
+
+
+# sent_id = 9
+# text = Naglalayon ang proyektong ito na mag-alok ng mga nilalaman na malayang muling magagamit, walang pinapanigan, at napapatunayan, na maaring baguhin at mapabuti ninuman.
+1	Naglalayon	_	VERB	_	_	_	_	_	ipa=Nɐglalajon
+2	ang	_	DET	_	_	_	_	_	ipa=aŋ
+3	proyektong	_	NOUN	_	_	_	_	_	ipa=pɾojɛktoŋ
+4	ito	_	NOUN	_	_	_	_	_	ipa=eto
+5	na	_	ADP	_	_	_	_	_	ipa=na
+6	mag-alok	_	_	_	_	_	_	_	ipa=mɐg-alok
+7	ng	_	ADP	_	_	_	_	_	ipa=ŋ
+8	mga	_	DET	_	_	_	_	_	ipa=mga
+9	nilalaman	_	NOUN	_	_	_	_	_	ipa=nɪlalɐmɐn
+10	na	_	ADP	_	_	_	_	_	ipa=na
+11	malayang	_	ADV	_	_	_	_	_	ipa=malajaŋ
+12	muling	_	_	ADV	_	_	_	_	ipa=mʊlɪŋ
+13	magagamit,	_	ADJ	_	_	_	_	_	ipa=mɐgɐgɐmet,
+14	walang	_	AUX	_	_	_	_	_	ipa=walaŋ
+15	pinapanigan,	_	VERB	_	_	_	_	_	ipa=penapɐnɪgɐn,
+16	at	_	CCONJ	_	_	_	_	_	ipa=at
+17	napapatunayan,	_	ADJ	_	_	_	_	_	ipa=napapatunajɐn,
+18	na	_	ADP	_	_	_	_	_	ipa=na
+19	maaring	_	ADV	_	_	_	_	_	ipa=maaɾɪŋ
+20	baguhin	_	VERB	_	_	_	_	_	ipa=bɐghɪn
+21	at	_	CCONJ	_	_	_	_	_	ipa=at
+22	mapabuti	_	VERB	_	_	_	_	_	ipa=mapɐbutɪ
+23	ninuman	_	PRON	_	_	_	_	_	ipa=nɪnumɐn
+
+
+# sent_id = 10
+# text = Nakikilala ang Wikipedia sa pamamagitan ng mga .
+1	Nakikilala	_	ADJ	_	_	_	_	_	ipa=Nakɪkɪlala
+2	ang	_	DET	_	_	_	_	_	ipa=aŋ
+3	Wikipedia	_	NOUN	_	_	_	_	_	ipa=Wɪkɪpɛdɪa
+4	sa	_	DET	_	_	_	_	_	ipa=sa
+5	pamamagitan	_	NOUN	_	_	_	_	_	ipa=pɐmɐmɐgetɐn
+6	ng	_	ADP	_	_	_	_	_	ipa=ŋ
+7	mga	_	DET	_	_	_	_	_	ipa=mga
+8		_	PUNCT	_	_	_	_	_	ipa=
+
+
+# sent_id = 11
+# text = Nakalisensiya ang nilalaman nito sa ilalim ng .
+1	Nakalisensiya	_	ADJ	_	_	_	_	_	ipa=Nakalɪsɛnsɪja
+2	ang	_	DET	_	_	_	_	_	ipa=aŋ
+3	nilalaman	_	noun	_	_	_	_	_	ipa=nɪlalɐmɐn
+4	nito	_	ADV	_	_	_	_	_	ipa=neto
+5	sa	_	DET	_	_	_	_	_	ipa=sa
+6	ilalim	_	NOUN	_	_	_	_	_	ipa=ɪlalɪm
+7	ng	_	ADP	_	_	_	_	_	ipa=ŋ
+8		_	PUNCT	_	_	_	_	_	ipa=
